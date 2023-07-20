@@ -1,0 +1,11 @@
+.card-list {
+    max-width: 1200px; /* Adjust this value based on your preference */
+    width: 85vw;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+    justify-content: space-around; /* This will evenly distribute columns along the row */
+  }
+  
+
